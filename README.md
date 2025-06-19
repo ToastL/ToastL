@@ -1,4 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm ToastL
+
+Welcome to my GitHub! I'm a frontend web developer and like to start random projects. I love learning by creating, and I'm always looking to level up my skills through hands-on projects.
+
+---
+
+## 🚀 Projects I'm proud of
+
+- 🔧 [**Bootloader**](/ToastL/bootloader)     – An ongoing x86_64 assembly project
+- 📄 [**SharedDocument**](/ToastL/SharedDocument) – An online shared document made with vue and vlang
+- 🕹️ [**Engine**](/ToastL/engine)        – A 2D game engine i build using webgl
+- 🧠 [**TL**](/ToastL/TL)             – A programming language i made in typescript(not done)
+
+---
+
+## 📫 Contact
+
+- 📧 Email: <etiendenouden2006@gmail.com>
+- 💼 LinkedIn: <https://www.linkedin.com/in/etien-den-ouden-098421370>
+
+---
 
 <!--
 **ToastL/ToastL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
