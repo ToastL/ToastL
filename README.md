@@ -6,7 +6,7 @@ Welcome to my GitHub! I'm a frontend web developer and like to start random proj
 
 ## 🚀 Projects I'm proud of
 
-- 🔧 [**Bootloader**](https://github.com/ToastL/bootloader) – An ongoing x86_64 assembly project
+- 🔧 [**Bootloader**](https://github.com/ToastL/bootloader) – An x86_64 assembly project
 - 📄 [**SharedDocument**](https://github.com/ToastL/SharedDocument) – An online shared document made with vue and vlang
 - 🕹️ [**Engine**](https://github.com/ToastL/engine) – A 2D game engine i build using webgl
 - 🧠 [**TL**](https://github.com/ToastL/TL) – A programming language i made in typescript(not done)
